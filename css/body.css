@@ -1,0 +1,14 @@
+body {
+    font-family: "Lato","Lucida Grande","Segoe UI","Arial",sans-serif;
+    transition: background-color .5s;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+.login-button {
+    font-size:30px; 
+    margin: 0 15px;
+}
